@@ -1,0 +1,3 @@
+browser: firefox
+env: https://staging-dev-app.decibelinsight.net/
+record: record1,record2,record3
